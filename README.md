@@ -25,7 +25,7 @@ FEATURES :
 	Customer details:
 		Add and edit customer information
 		Search filters
-		Vie customer booking history
+		View customer booking history
 	Reporting:
 		Revenue details
 		Export reports to text files
